@@ -6,8 +6,8 @@
 // @author       sylardo
 // @match        https://practiscore.com/*/squadding
 // @supportURL   https://github.com/sylardo/practiscore_userscript/issues
-// @copyright    2025, sylardo (https://github.com/sylardo)
-// @license      MIT
+// @copyright    2025+, sylardo (https://github.com/sylardo)
+// @license      MIT; https://github.com/sylardo/practiscore_userscript/blob/main/LICENSE
 // @exclude      *
 // @grant        none
 // ==/UserScript==
