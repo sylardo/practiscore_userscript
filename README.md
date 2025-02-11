@@ -25,6 +25,7 @@ This Tampermonkey script counts the occurrences of shooting division tags (CCP, 
 1. Open **Tampermonkey** and click on **Create a new script**.
 2. Delete the default template and **paste the script** from this repository.
 3. Click **File → Save** and make sure the script is **enabled**.
+4. Or just klick on 'raw'...
 
 ### 3️⃣ Use the Script
 1. **Go to a PractiScore squadding page**, e.g., `https://practiscore.com/event-name/squadding`
