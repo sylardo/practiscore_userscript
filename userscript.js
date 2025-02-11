@@ -3,12 +3,18 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  Counts the occurrences of CCP, ESP, CDP, CO, SSP and PCC on the squadding page and displays the result in a floating window
-// @author       Sylardo
+// @author       sylardo
 // @match        https://practiscore.com/*/squadding
 // @supportURL   https://github.com/sylardo/practiscore_userscript/issues
+// @copyright    2025, sylardo (https://github.com/sylardo)
 // @license      MIT
+// @exclude      *
 // @grant        none
 // ==/UserScript==
+
+// ==OpenUserJS==
+// @author       sylardo
+// ==/OpenUserJS==
 
 (function () {
   "use strict";
